@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE     COMMAND                   CREATED         STATUS                     PORTS     NAMES
+53da5196885f   alpine    "cat /data/volume-te…"   6 minutes ago   Exited (0) 6 minutes ago             volume-test-after

@@ -1,0 +1,6 @@
+CONTAINER ID   IMAGE          COMMAND                   CREATED          STATUS                     PORTS                                     NAMES
+53da5196885f   alpine         "cat /data/volume-te…"   7 minutes ago    Exited (0) 7 minutes ago                                             volume-test-after
+3a1bb36bd96a   nginx:alpine   "/docker-entrypoint.…"   27 minutes ago   Up 27 minutes              0.0.0.0:8081->80/tcp, [::]:8081->80/tcp   codyssey-bind-container
+8a10e382584d   codyssey-web   "/docker-entrypoint.…"   52 minutes ago   Up 52 minutes              0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   codyssey-web-container
+b393bab46717   ubuntu         "bash"                    2 hours ago      Up 2 hours                                                           ubuntu-practice
+f5649dda322c   hello-world    "/hello"                  24 hours ago     Exited (0) 24 hours ago                                              adoring_kirch

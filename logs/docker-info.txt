@@ -1,0 +1,9 @@
+Server Version: 29.4.0
+Operating System: OrbStack
+Architecture: aarch64
+CPUs: 10
+Total Memory: 12601012224
+Containers: 5
+Running Containers: 3
+Stopped Containers: 2
+Images: 6

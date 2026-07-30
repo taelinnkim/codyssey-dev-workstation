@@ -1,0 +1,9 @@
+=== 변경 전 ===
+drwxr-xr-x  3 tl.k  staff  96  7월 29 19:28 permission-practice
+-rw-r--r--  1 tl.k  staff  20  7월 29 19:28 permission-practice/sample.txt
+=== 변경 후 ===
+drwx------  3 tl.k  staff  96  7월 29 19:28 permission-practice
+-rw-------  1 tl.k  staff  20  7월 29 19:28 permission-practice/sample.txt
+=== 원상 복구 ===
+drwxr-xr-x  3 tl.k  staff  96  7월 29 19:28 permission-practice
+-rw-r--r--  1 tl.k  staff  20  7월 29 19:28 permission-practice/sample.txt

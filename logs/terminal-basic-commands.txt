@@ -1,0 +1,35 @@
+=== 현재 위치 확인: pwd ===
+/Users/tl.k/codyssey/codyssey-dev-workstation
+=== 숨김 파일 포함 목록 확인: ls -la ===
+total 32
+drwxr-xr-x  11 tl.k  staff   352  7월 30 14:45 .
+drwxr-xr-x   4 tl.k  staff   128  7월 30 14:45 ..
+-rw-r--r--@  1 tl.k  staff  6148  7월 30 15:08 .DS_Store
+drwxr-xr-x  13 tl.k  staff   416  7월 30 16:28 .git
+drwxr-xr-x   3 tl.k  staff    96  7월 29 19:27 app
+-rw-r--r--   1 tl.k  staff    81  7월 30 14:30 Dockerfile
+drwxr-xr-x  32 tl.k  staff  1024  7월 30 16:58 logs
+drwxr-xr-x   3 tl.k  staff    96  7월 29 19:28 permission-practice
+-rw-r--r--   1 tl.k  staff   117  7월 29 19:11 README.md
+drwxr-xr-x   7 tl.k  staff   224  7월 30 16:40 screenshots
+drwxr-xr-x   4 tl.k  staff   128  7월 29 23:13 terminal-practice
+=== 디렉터리 생성: mkdir ===
+생성됨: terminal-practice/command-log-demo-1785398301
+=== 디렉터리 이동: cd ===
+/Users/tl.k/codyssey/codyssey-dev-workstation/terminal-practice/command-log-demo-1785398301
+=== 빈 파일 생성: touch ===
+-rw-r--r--  1 tl.k  staff  0  7월 30 16:58 empty.txt
+=== 파일 생성 및 내용 확인: echo, cat ===
+terminal command practice
+=== 파일 복사: cp ===
+-rw-r--r--  1 tl.k  staff  26  7월 30 16:58 copied.txt
+=== 파일 이동·이름 변경: mv ===
+-rw-r--r--  1 tl.k  staff  26  7월 30 16:58 renamed.txt
+=== 파일 삭제: rm ===
+total 8
+drwxr-xr-x  4 tl.k  staff  128  7월 30 16:58 .
+drwxr-xr-x  5 tl.k  staff  160  7월 30 16:58 ..
+-rw-r--r--  1 tl.k  staff    0  7월 30 16:58 empty.txt
+-rw-r--r--  1 tl.k  staff   26  7월 30 16:58 original.txt
+=== 디렉터리 삭제: rm -r ===
+삭제됨: terminal-practice/command-log-demo-1785398301

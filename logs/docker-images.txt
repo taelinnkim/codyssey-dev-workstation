@@ -1,0 +1,6 @@
+IMAGE                 ID             DISK USAGE   CONTENT SIZE   EXTRA
+alpine:latest         28bd5fe8b56d       14.6MB         4.27MB   U    
+codyssey-web:latest   6394393ea228       93.2MB           26MB   U    
+hello-world:latest    c3cbe1cc1aa5       18.5kB         10.3kB   U    
+nginx:alpine          4a73073bd557       94.1MB         26.9MB   U    
+ubuntu:latest         3131b4cc82a7        178MB         44.4MB   U    

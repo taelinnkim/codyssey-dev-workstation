@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE     COMMAND                    CREATED         STATUS                     PORTS     NAMES
+29a1ab39bc19   alpine    "sh -c 'echo \"Docker…"   2 minutes ago   Exited (0) 2 minutes ago             volume-test-before

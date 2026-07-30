@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE          COMMAND                   CREATED       STATUS       PORTS                                     NAMES
+3a1bb36bd96a   nginx:alpine   "/docker-entrypoint.…"   2 hours ago   Up 2 hours   0.0.0.0:8081->80/tcp, [::]:8081->80/tcp   codyssey-bind-container
+8a10e382584d   codyssey-web   "/docker-entrypoint.…"   2 hours ago   Up 2 hours   0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   codyssey-web-container
+b393bab46717   ubuntu         "bash"                    4 hours ago   Up 3 hours                                             ubuntu-practice
